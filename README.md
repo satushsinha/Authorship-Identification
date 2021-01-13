@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/WhatsApp Image 2021-01-09 at 5.18.19 PM.jpeg "Logo Title Text 2"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/Author.png"Logo Title Text 2"
 # Authorship Identification of Micro-text using Capsule Network 
 ### Author's
 + chanchal Suman
