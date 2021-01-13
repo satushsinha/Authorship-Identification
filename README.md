@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/Author.png"Logo Title Text 2"
+[logo]: https://github.com/satushsinha/Authorship-Identification/blob/main/images/Author.png "Authorship Identification of Micro-text using Capsule Network"
 # Authorship Identification of Micro-text using Capsule Network 
 ### Author's
 + chanchal Suman
