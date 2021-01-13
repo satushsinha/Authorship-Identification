@@ -16,18 +16,18 @@ Authorship attribution is an important task, as it identifies the author of a wr
 We have collected tweets for so many authors then we created Dataset of two types:
 + **Dataset with varying number of Tweets**
 We randomly selected 50 authors then we created Dataset as:
-+ Dataset with 50 Tweets per author
-+ Dataset with 100 Tweets per author
-+ Dataset with 200 Tweets per author
-+ Dataset with 500 Tweets per author
-+ Dataset with 1000 Tweets per author
+  + Dataset with 50 Tweets per author
+  + Dataset with 100 Tweets per author
+  + Dataset with 200 Tweets per author
+  + Dataset with 500 Tweets per author
+  + Dataset with 1000 Tweets per author
 
 + **Dataset with varying number of Author**
 We fixed the number of tweets equal to 200 per author then created the following Dataset:
-+ Dataset with 100 authors
-+ Dataset with 200 authors
-+ Dataset with 500 authors
-+ Dataset with 1000 authors
+  + Dataset with 100 authors
+  + Dataset with 200 authors
+  + Dataset with 500 authors
+  + Dataset with 1000 authors
 
 ### Models
 
