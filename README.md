@@ -31,6 +31,11 @@ We fixed the number of tweets equal to 200 per author then created the following
 
 ### Models
 
-#### Character Bigram with CNN
+#### Character Unigram with CNN
+
+Character Unigram is constructed for text then it is given to the input layer of neural net.You can see the detailed layer of the neural net in the diagram below.
 
 ##### Results
+**Dataset with varying number of tweets:**
+|50 Tweets | 100 Tweets | 200 Tweets | 500 Tweets | 1000 Tweets |
+| --- | ---- | ----| ---- |----|
